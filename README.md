@@ -4,7 +4,7 @@ Welcome to my GitHub. May every line of code I write
 be of benefit to others. 🌙
 
 Always learning, creating, and growing. Let's connect!a</h1>
-<h3 align="center">## 🌙 Operating inside the Dark Hour...</h3>
+<h3 align="center">🌙 Operating inside the Dark Hour...</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
