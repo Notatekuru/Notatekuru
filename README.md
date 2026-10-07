@@ -1,4 +1,4 @@
-<h1 align="center">## Peace be upon you 👋
+<h1 align="center">
 
 Welcome to my GitHub. May every line of code I write
 be of benefit to others. 🌙
